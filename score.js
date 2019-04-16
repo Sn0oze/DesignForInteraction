@@ -1,4 +1,4 @@
-import { CountUp } from './lib/CountUp.min.js';
+import { CountUp } from './lib/countUp.min.js';
 
 const scoreKey = "score";
 const pointsKey = "points";
