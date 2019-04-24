@@ -48,7 +48,7 @@ video{
 
 
 .carousel-item-container img{
-    filter: invert(1);
+    filter: invert(1) opacity(0.67);
     margin-top: .5rem;
     height: 10rem;
 }
@@ -60,6 +60,9 @@ video{
 }
 .carousel-item-container h3{
     font-weight: bolder;
+}
+.carousel-item-container p{
+    opacity: 0.67;
 }
 
 .carousel-control-prev, .carousel-control-next{
